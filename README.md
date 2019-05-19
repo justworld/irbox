@@ -1,2 +1,3 @@
 # ina
-汇总编程相关的问题和资源等等
+- [python](https://github.com/justworld/ina/blob/master/python.md)
+- [产品](https://github.com/justworld/ina/blob/master/pm.md)

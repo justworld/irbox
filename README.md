@@ -6,6 +6,7 @@
 [python-anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 - 库  
 [tpdm](https://github.com/tqdm/tqdm)（循环进度条）
+
 ### 产品
 - 书籍  
 《结构思考力》  
@@ -19,3 +20,7 @@
 - 网站  
 [LintCode](https://www.lintcode.com)、[LeetCode](https://leetcode.com)（算法）  
 [牛客网](https://www.nowcoder.com)（面试）  
+
+### 运维
+- 命令  
+strace

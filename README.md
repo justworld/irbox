@@ -5,7 +5,8 @@
 - 网站  
 [python-anti-patterns](https://docs.quantifiedcode.com/python-anti-patterns/index.html)
 - 库  
-[tpdm](https://github.com/tqdm/tqdm)（循环进度条）
+[tpdm](https://github.com/tqdm/tqdm)（循环进度条）  
+pprint（标准库，比print更加友好）
 
 ### 产品
 - 书籍  

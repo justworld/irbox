@@ -25,3 +25,6 @@ pprint（标准库，比print更加友好）
 ### 运维
 - 命令  
 strace
+
+### 软件
+- apowersoft

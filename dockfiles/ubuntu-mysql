@@ -1,0 +1,10 @@
+FROM ubuntu:18.04
+
+RUN apt-get update \
+    && apt-get -y install mysql-server
+
+RUN /etc/init.d/mysql start \
+    && mysql -u root -e "UPDATE mysql.user SET plugin='mysql_native_password' WHERE User='root';" \
+    && mysql -u root -e "UPDATE mysql.user SET authentication_string=password('123456'),Host='%' where User='root';"
+
+EXPOSE 3306

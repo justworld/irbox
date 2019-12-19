@@ -33,3 +33,4 @@ strace
 
 ### 网站
 - [流程图制作](https://www.draw.io/?splash=0)
+- [云服务器测速](http://cloudping.bastionhost.org/)

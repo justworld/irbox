@@ -19,6 +19,10 @@ daemonize （守护进程）
 《把时间当作朋友》  
 [欧洲GDPR条例](https://www.tisi.org/5029)
 
+### 设计
+- 书籍  
+ 《写给大家看的设计书》
+
 ### 程序员
 - 网站  
 [LintCode](https://www.lintcode.com)、[LeetCode](https://leetcode.com)（算法）  
